@@ -1,0 +1,209 @@
+body{ 
+    font-weight: bold; 
+    padding: 20px 60px; 
+    font-family: "Inter", sans-serif; 
+    font-weight: 500; 
+    font-size: 16px; 
+} 
+.header{ 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+} 
+ 
+.logo span{ 
+    margin-left: 8px; 
+} 
+ 
+.nav{ 
+    width: 590px; 
+    display: flex; 
+    justify-content: space-between; 
+    list-style: none; 
+} 
+.nav li{ 
+    list-style: none; 
+    margin-right: 32px; 
+} 
+ 
+.logo{ 
+text-decoration: none; 
+color: #263238; 
+font-size: 20px; 
+display: flex; 
+font-weight: bold; 
+align-items: center; 
+} 
+.button-grup a{ 
+    text-decoration: none; 
+    margin-right: 32px; 
+    color: black; 
+} 
+.button-grup a :hover{ 
+    color: aliceblue; 
+} 
+.button-grup a.log-in{ 
+    padding: 10px 20px; 
+    border: none; 
+    margin-right: 32px; 
+    color:#4CAF4F; 
+} 
+.button-grup a.Sign{ 
+    padding: 20px 50px; 
+    border: none; 
+    border-radius: 6px; 
+    background-color:#4CAF4F; 
+    color: aliceblue; 
+}
+.button-grup a.log-in:hover{
+    background-color:#208023;
+}
+.block h1{
+    font-size: 64px;
+    color: #4a4a4b;
+    margin-top: 160px;
+    margin-left: 50px;
+}
+.block h2{
+    font-size: 64px;
+    margin-top: -55px;
+    margin-left: 50px;
+    color: #4CAF4F;
+}
+.block p{
+    color:#5f5f5f;
+    margin-left: 50px;
+    margin-top: -27px;
+    font-size: 16px;
+    justify-content: "Inter";
+}
+.block2 a{
+    position: absolute;
+    left: 120px;
+    top: 485px;
+    text-decoration: none;
+    background-color: #4CAF4F;
+    color: aliceblue;
+    padding: 14px 32px;
+    border-radius: 4px;
+}
+.imejes3{
+    text-align: center;
+}
+.imejes2{
+    position: absolute;
+    top: 230px;
+    right:200px;
+    
+}
+.circle{
+    position: relative;
+    left: 835px;
+    top: 250px;
+    background-color: #4CAF4F;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    
+    
+}
+.circle2{
+    position: relative;
+    left:855px;
+    top: 240px;
+    background-color: #4CAF4F;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    opacity: 30%; 
+}
+.circle3{
+    position: relative;
+    left:875px;
+    top: 230px;
+    background-color: #4CAF4F;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    opacity: 30%;   
+}
+.button-grup2{
+    text-align: center;
+    padding-top: 330px;
+    justify-content: "Inter";
+    color: #4D4D4D;
+    font-size: 36px;
+    line-height: 44px;
+}
+.button-grup3{
+    text-align: center;
+    justify-content: "Inter";
+    color: #4D4D4D;
+    font-size: 16px;
+    line-height: 44px;
+}
+.cards-img{
+    margin-left:1150px;
+    margin-top: -52px;
+
+}
+.cards-img0{
+    margin-top: -55px;
+    margin-left: 70px;
+}
+.cards-img1{
+    margin-top: -50;
+    margin-left:300px;
+    
+}
+.cards-img2{
+    margin-left:550px;
+    margin-top: -45px;
+    
+}
+.cards-img3{
+    margin-left:800px;
+    margin-top: -52px;
+   
+}
+.cards-img4{
+    margin-left:1100px;
+    margin-top: -52px;
+    
+}
+.cards-img5{
+    margin-left:1380px;
+    margin-top: -50px;
+    
+}
+.cards-img6{
+    margin-left:1650px;
+    margin-top: -55px;
+}
+.padding{
+    margin-top: 40px;
+}
+.button-grup4{
+    color: #208023;
+}
+.text1{
+    color: #4D4D4D;
+    justify-content: "Inter";
+    font-size: 36px;
+    text-align: center;
+    line-height: 44px;
+    margin-top: 150px;
+}
+.text2{
+    color: #4D4D4D;
+    justify-content: "Inter";
+    font-size: 36px;
+    text-align: center;
+    line-height: 44px;
+}
+.text3{
+    color: #4D4D4D;
+    justify-content: "Inter";
+    text-align: center;
+    line-height: 24px;
+}
