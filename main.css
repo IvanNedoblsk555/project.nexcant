@@ -207,3 +207,22 @@ align-items: center;
     text-align: center;
     line-height: 24px;
 }
+
+.items{
+    display: flex;
+    width: 1150px;
+    justify-content: space-between;
+}
+
+.items li{
+    list-style-type: none;
+    text-align: center;
+}
+.icon3{
+    display: flex;
+    justify-content: center;
+}
+.items h3{
+    justify-content: "Inter";
+    size: 28px;
+}
